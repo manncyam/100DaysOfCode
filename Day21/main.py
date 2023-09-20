@@ -38,8 +38,8 @@ def start():
             food.refresh()
             scoreboard.update_score()
         if snake.is_hitting_body() or is_collide_wall():
-            is_on = False
-            scoreboard.game_over()
+            scoreboard.reset()
+            snake.reset()
         
 def main():
     setup_screen()

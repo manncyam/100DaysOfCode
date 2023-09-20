@@ -24,6 +24,13 @@ class Snake:
     
         self.head.forward(MOVE_DISTANCE)
 
+    def reset(self):
+        for s in self.segments:
+            s.reset()
+        self.segments.clear()
+        self.creat_snake()
+        self.head = self.segments[0]
+
     def creat_new_segment(self, at_x, at_y):
         segment = Turtle(shape="square")
         segment.color("white")
