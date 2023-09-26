@@ -9,5 +9,8 @@ while has_next:
     if name == "QUIT" or name == "EXIT":
         has_next = False
     else:
-        print([nato_dict[c] for c in name if c in nato_dict])
+        try:
+            print([nato_dict[c] for c in name])
+        except KeyError:
+            print("Please enter alphabets only!")
     
