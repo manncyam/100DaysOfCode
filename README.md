@@ -13,3 +13,7 @@
 ## [Day63](Day63/README.md) Virtual Bookshelf
 
 ## [Day64](Day64/README.md) My Top 10 Movies Website
+
+## [Day65](Day65/README.md) Web Design Principle
+
+## [Day66](Day66/README.md) Build RESTful Routing
