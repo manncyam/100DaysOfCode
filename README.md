@@ -17,3 +17,5 @@
 ## [Day65](Day65/README.md) Web Design Principle
 
 ## [Day66](Day66/README.md) Build RESTful Routing
+
+## [Day67](Day67/README.md) Building a RESTful Blog With Editing
