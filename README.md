@@ -29,3 +29,5 @@
 ## [Day72](Day72/README.md) Data Exploration with Pandas
 
 ## [Day73](Day73/README.md) Analyse the Popularity of the different Programming Languages
+
+## [Day74](Day74/README.md) Analyse the LEGO Dataset
