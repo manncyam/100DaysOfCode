@@ -21,3 +21,11 @@
 ## [Day67](Day67/README.md) Building a RESTful Blog With Editing
 
 ## [Day68](Day68/README.md) Login with Authentication
+
+## [Day69](Day69/README.md) Adding Users to Our Blog
+
+## [Day71](Day71/README.md) Deploying Your Web Application
+
+## [Day72](Day72/README.md) Data Exploration with Pandas
+
+## [Day73](Day73/README.md) Analyse the Popularity of the different Programming Languages
