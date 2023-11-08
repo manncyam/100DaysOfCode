@@ -31,3 +31,5 @@
 ## [Day73](Day73/README.md) Analyse the Popularity of the different Programming Languages
 
 ## [Day74](Day74/README.md) Analyse the LEGO Dataset
+
+## [Day75](Day75/README.md) Combine Google Trends with other Time Series Data
