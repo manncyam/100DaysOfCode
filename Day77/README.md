@@ -1,2 +1,1 @@
-# Day77 Numpy
-
+# Day77 Numpy Overview

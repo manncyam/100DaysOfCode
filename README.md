@@ -35,3 +35,5 @@
 ## [Day75](Day75/README.md) Combine Google Trends with other Time Series Data
 
 ## [Day76](Day76/README.md) Wrestle the Android App Store Data into Beautiful Looking Charts With Plotly
+
+## [Day77](Day77/README.md) Numpy Overview
